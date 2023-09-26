@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sieve of Eratosthenes", "Sieve of Eratosthenes\Sieve of Eratosthenes.vcxproj", "{842AB5D7-9172-43F3-B7F6-DEBB1DE0DFF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{842AB5D7-9172-43F3-B7F6-DEBB1DE0DFF5}.Debug|x64.ActiveCfg = Debug|x64
+		{842AB5D7-9172-43F3-B7F6-DEBB1DE0DFF5}.Debug|x64.Build.0 = Debug|x64
+		{842AB5D7-9172-43F3-B7F6-DEBB1DE0DFF5}.Debug|x86.ActiveCfg = Debug|Win32
+		{842AB5D7-9172-43F3-B7F6-DEBB1DE0DFF5}.Debug|x86.Build.0 = Debug|Win32
+		{842AB5D7-9172-43F3-B7F6-DEBB1DE0DFF5}.Release|x64.ActiveCfg = Release|x64
+		{842AB5D7-9172-43F3-B7F6-DEBB1DE0DFF5}.Release|x64.Build.0 = Release|x64
+		{842AB5D7-9172-43F3-B7F6-DEBB1DE0DFF5}.Release|x86.ActiveCfg = Release|Win32
+		{842AB5D7-9172-43F3-B7F6-DEBB1DE0DFF5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C21460B-841D-4FB0-A95D-6C7588A7E547}
+	EndGlobalSection
+EndGlobal
