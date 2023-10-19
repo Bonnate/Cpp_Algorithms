@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "최대 부분 증가수열", "최대 부분 증가수열.vcxproj", "{6A158BE7-D47D-4CE6-B463-9FC4357B503A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A158BE7-D47D-4CE6-B463-9FC4357B503A}.Debug|x64.ActiveCfg = Debug|x64
+		{6A158BE7-D47D-4CE6-B463-9FC4357B503A}.Debug|x64.Build.0 = Debug|x64
+		{6A158BE7-D47D-4CE6-B463-9FC4357B503A}.Debug|x86.ActiveCfg = Debug|Win32
+		{6A158BE7-D47D-4CE6-B463-9FC4357B503A}.Debug|x86.Build.0 = Debug|Win32
+		{6A158BE7-D47D-4CE6-B463-9FC4357B503A}.Release|x64.ActiveCfg = Release|x64
+		{6A158BE7-D47D-4CE6-B463-9FC4357B503A}.Release|x64.Build.0 = Release|x64
+		{6A158BE7-D47D-4CE6-B463-9FC4357B503A}.Release|x86.ActiveCfg = Release|Win32
+		{6A158BE7-D47D-4CE6-B463-9FC4357B503A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F7999EE-479E-4599-AEAB-A5A3D8E7C8E0}
+	EndGlobalSection
+EndGlobal
