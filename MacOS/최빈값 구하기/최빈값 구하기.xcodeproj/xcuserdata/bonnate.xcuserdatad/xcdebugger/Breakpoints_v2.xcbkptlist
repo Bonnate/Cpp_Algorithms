@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0F213CFC-E409-451B-887D-DC9F2591DB9E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6BF305EE-F077-417A-8422-78BB25420908"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x110e;&#x116c;&#x1107;&#x1175;&#x11ab;&#x1100;&#x1161;&#x11b9; &#x1100;&#x116e;&#x1112;&#x1161;&#x1100;&#x1175;/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "main(argc, argv)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9F6A7EE7-93EB-4F02-8FB7-D28D5F46B2C8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x110e;&#x116c;&#x1107;&#x1175;&#x11ab;&#x1100;&#x1161;&#x11b9; &#x1100;&#x116e;&#x1112;&#x1161;&#x1100;&#x1175;/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "solution(array)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D8AA3738-B870-4E99-B421-069680389A45"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x110e;&#x116c;&#x1107;&#x1175;&#x11ab;&#x1100;&#x1161;&#x11b9; &#x1100;&#x116e;&#x1112;&#x1161;&#x1100;&#x1175;/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "solution(array)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "D8AA3738-B870-4E99-B421-069680389A45 - b1978c4621e0905f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "solution(std::__1::vector&lt;int, std::__1::allocator&lt;int&gt;&gt;)"
+                  moduleName = "&#x110e;&#x116c;&#x1107;&#x1175;&#x11ab;&#x1100;&#x1161;&#x11b9; &#x1100;&#x116e;&#x1112;&#x1161;&#x1100;&#x1175;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bonnate/Desktop/Algorithms/MacOS/%E1%84%8E%E1%85%AC%E1%84%87%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A1%E1%86%B9%20%E1%84%80%E1%85%AE%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5/%E1%84%8E%E1%85%AC%E1%84%87%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A1%E1%86%B9%20%E1%84%80%E1%85%AE%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "D8AA3738-B870-4E99-B421-069680389A45 - b1978c4621e0905f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "solution(std::__1::vector&lt;int, std::__1::allocator&lt;int&gt;&gt;)"
+                  moduleName = "&#x110e;&#x116c;&#x1107;&#x1175;&#x11ab;&#x1100;&#x1161;&#x11b9; &#x1100;&#x116e;&#x1112;&#x1161;&#x1100;&#x1175;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bonnate/Desktop/Algorithms/MacOS/%E1%84%8E%E1%85%AC%E1%84%87%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A1%E1%86%B9%20%E1%84%80%E1%85%AE%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5/%E1%84%8E%E1%85%AC%E1%84%87%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A1%E1%86%B9%20%E1%84%80%E1%85%AE%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "256">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FCC97AAA-3D6B-4A2A-B89F-D98353704F0B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x110e;&#x116c;&#x1107;&#x1175;&#x11ab;&#x1100;&#x1161;&#x11b9; &#x1100;&#x116e;&#x1112;&#x1161;&#x1100;&#x1175;/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "solution(array)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
