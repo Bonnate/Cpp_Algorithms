@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6851DF3C-0F71-4333-8C54-DBCF298CFA2F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "669570A7-2AF5-4C04-A5FC-233E7EC57579"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x1112;&#x1162;&#x11b7;&#x1107;&#x1165;&#x1100;&#x1165; &#x1106;&#x1161;&#x11ab;&#x1103;&#x1173;&#x11af;&#x1100;&#x1175;/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "solution(ingredient)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "669570A7-2AF5-4C04-A5FC-233E7EC57579 - c8ea1924d407693b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "solution(std::__1::vector&lt;int, std::__1::allocator&lt;int&gt;&gt;)"
+                  moduleName = "&#x1112;&#x1162;&#x11b7;&#x1107;&#x1165;&#x1100;&#x1165; &#x1106;&#x1161;&#x11ab;&#x1103;&#x1173;&#x11af;&#x1100;&#x1175;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bonnate/Desktop/Algorithms/Cpp_Algorithms/Programmers/%E1%84%92%E1%85%A2%E1%86%B7%E1%84%87%E1%85%A5%E1%84%80%E1%85%A5%20%E1%84%86%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%86%AF%E1%84%80%E1%85%B5/%E1%84%92%E1%85%A2%E1%86%B7%E1%84%87%E1%85%A5%E1%84%80%E1%85%A5%20%E1%84%86%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%86%AF%E1%84%80%E1%85%B5/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "332">
+               </Location>
+               <Location
+                  uuid = "669570A7-2AF5-4C04-A5FC-233E7EC57579 - c8ea1924d407693b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "solution(std::__1::vector&lt;int, std::__1::allocator&lt;int&gt;&gt;)"
+                  moduleName = "&#x1112;&#x1162;&#x11b7;&#x1107;&#x1165;&#x1100;&#x1165; &#x1106;&#x1161;&#x11ab;&#x1103;&#x1173;&#x11af;&#x1100;&#x1175;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bonnate/Desktop/Algorithms/Cpp_Algorithms/Programmers/%E1%84%92%E1%85%A2%E1%86%B7%E1%84%87%E1%85%A5%E1%84%80%E1%85%A5%20%E1%84%86%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%86%AF%E1%84%80%E1%85%B5/%E1%84%92%E1%85%A2%E1%86%B7%E1%84%87%E1%85%A5%E1%84%80%E1%85%A5%20%E1%84%86%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%86%AF%E1%84%80%E1%85%B5/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "360">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
