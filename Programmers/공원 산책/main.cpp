@@ -26,8 +26,15 @@ vector<int> solution(vector<string> park, vector<string> routes)
 	int height = park.size();
 
 	int row = 0, col = 0;
+	for (int i = 0; i < park.size(); ++i)
+		for (int j = 0; j < park[0].size(); ++j)
+			if (park[i][j] == 'S')
+			{
+				row = i, col = j;
+				break;
+			}
 
-	for (string s : routes)
+ 	for (string s : routes)
 	{
 		vector<string> splited = split(s, ' ');
 		int move = stoi(splited[1]);
@@ -37,7 +44,7 @@ vector<int> solution(vector<string> park, vector<string> routes)
 		{
 			for (int i = 0; i < move; ++i)
 			{
-				if (row - 1 < 0 || park[row - 1][col] == 'X')
+				if (row - 1 - i < 0 || park[row - 1 - i][col] == 'X')
 				{
 					moved = false;
 					break;
@@ -51,7 +58,7 @@ vector<int> solution(vector<string> park, vector<string> routes)
 		{
 			for (int i = 0; i < move; ++i)
 			{
-				if (row + 1 >= width || park[row + 1][col] == 'X')
+				if (row + 1 + i >= height || park[row + 1 + i ][col] == 'X')
 				{
 					moved = false;
 					break;
@@ -65,7 +72,7 @@ vector<int> solution(vector<string> park, vector<string> routes)
 		{
 			for (int i = 0; i < move; ++i)
 			{
-				if (col - 1 < 0 || park[row][col - 1] == 'X')
+				if (col - 1  - i < 0 || park[row][col - 1 - i ] == 'X')
 				{
 					moved = false;
 					break;
@@ -79,7 +86,7 @@ vector<int> solution(vector<string> park, vector<string> routes)
 		{
 			for (int i = 0; i < move; ++i)
 			{
-				if (col + 1 >= height || park[row][col + 1] == 'X')
+				if (col + 1 + i >= width || park[row][col + 1 + i] == 'X')
 				{
 					moved = false;
 					break;
@@ -91,7 +98,8 @@ vector<int> solution(vector<string> park, vector<string> routes)
 		}
 	}
 
-	cout << row << col << endl;
+	answer.push_back(row);
+	answer.push_back(col);
 
 	return answer;
 }
