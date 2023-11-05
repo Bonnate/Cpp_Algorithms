@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5D594FED-3535-49CD-8DD3-6033F7FCEAA5"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "910DE733-CA84-466E-8819-537746F69D1A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x110b;&#x1175;&#x1106;&#x1169;&#x1110;&#x1175;&#x110f;&#x1169;&#x11ab; &#x1112;&#x1161;&#x11af;&#x110b;&#x1175;&#x11ab;&#x1112;&#x1162;&#x11bc;&#x1109;&#x1161;/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "DFS(users, emoticons, l)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "910DE733-CA84-466E-8819-537746F69D1A - 351477482180b1d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DFS(std::__1::vector&lt;std::__1::vector&lt;int, std::__1::allocator&lt;int&gt;&gt;, std::__1::allocator&lt;std::__1::vector&lt;int, std::__1::allocator&lt;int&gt;&gt;&gt;&gt;, std::__1::vector&lt;int, std::__1::allocator&lt;int&gt;&gt;, int)"
+                  moduleName = "&#x110b;&#x1175;&#x1106;&#x1169;&#x1110;&#x1175;&#x110f;&#x1169;&#x11ab; &#x1112;&#x1161;&#x11af;&#x110b;&#x1175;&#x11ab;&#x1112;&#x1162;&#x11bc;&#x1109;&#x1161;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bonnate/Desktop/Algorithms/Cpp_Algorithms/Programmers/%E1%84%8B%E1%85%B5%E1%84%86%E1%85%A9%E1%84%90%E1%85%B5%E1%84%8F%E1%85%A9%E1%86%AB%20%E1%84%92%E1%85%A1%E1%86%AF%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A1/%E1%84%8B%E1%85%B5%E1%84%86%E1%85%A9%E1%84%90%E1%85%B5%E1%84%8F%E1%85%A9%E1%86%AB%20%E1%84%92%E1%85%A1%E1%86%AF%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A1/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "910DE733-CA84-466E-8819-537746F69D1A - 351477482180b22"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DFS(std::__1::vector&lt;std::__1::vector&lt;int, std::__1::allocator&lt;int&gt;&gt;, std::__1::allocator&lt;std::__1::vector&lt;int, std::__1::allocator&lt;int&gt;&gt;&gt;&gt;, std::__1::vector&lt;int, std::__1::allocator&lt;int&gt;&gt;, int)"
+                  moduleName = "&#x110b;&#x1175;&#x1106;&#x1169;&#x1110;&#x1175;&#x110f;&#x1169;&#x11ab; &#x1112;&#x1161;&#x11af;&#x110b;&#x1175;&#x11ab;&#x1112;&#x1162;&#x11bc;&#x1109;&#x1161;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bonnate/Desktop/Algorithms/Cpp_Algorithms/Programmers/%E1%84%8B%E1%85%B5%E1%84%86%E1%85%A9%E1%84%90%E1%85%B5%E1%84%8F%E1%85%A9%E1%86%AB%20%E1%84%92%E1%85%A1%E1%86%AF%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A1/%E1%84%8B%E1%85%B5%E1%84%86%E1%85%A9%E1%84%90%E1%85%B5%E1%84%8F%E1%85%A9%E1%86%AB%20%E1%84%92%E1%85%A1%E1%86%AF%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A1/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AAE3AE5E-866E-429C-B783-536AB0F91C84"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x110b;&#x1175;&#x1106;&#x1169;&#x1110;&#x1175;&#x110f;&#x1169;&#x11ab; &#x1112;&#x1161;&#x11af;&#x110b;&#x1175;&#x11ab;&#x1112;&#x1162;&#x11bc;&#x1109;&#x1161;/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "solution(users, emoticons)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "59E6A0B4-9E5C-402C-8890-BFAAFA429D49"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x110b;&#x1175;&#x1106;&#x1169;&#x1110;&#x1175;&#x110f;&#x1169;&#x11ab; &#x1112;&#x1161;&#x11af;&#x110b;&#x1175;&#x11ab;&#x1112;&#x1162;&#x11bc;&#x1109;&#x1161;/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "DFS(users, emoticons, l)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1FEC9574-A582-4742-90AB-D6AD0B878D7D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x110b;&#x1175;&#x1106;&#x1169;&#x1110;&#x1175;&#x110f;&#x1169;&#x11ab; &#x1112;&#x1161;&#x11af;&#x110b;&#x1175;&#x11ab;&#x1112;&#x1162;&#x11bc;&#x1109;&#x1161;/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "DFS(users, emoticons, l)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "1FEC9574-A582-4742-90AB-D6AD0B878D7D - 351477482180d0d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DFS(std::__1::vector&lt;std::__1::vector&lt;int, std::__1::allocator&lt;int&gt;&gt;, std::__1::allocator&lt;std::__1::vector&lt;int, std::__1::allocator&lt;int&gt;&gt;&gt;&gt;, std::__1::vector&lt;int, std::__1::allocator&lt;int&gt;&gt;, int)"
+                  moduleName = "&#x110b;&#x1175;&#x1106;&#x1169;&#x1110;&#x1175;&#x110f;&#x1169;&#x11ab; &#x1112;&#x1161;&#x11af;&#x110b;&#x1175;&#x11ab;&#x1112;&#x1162;&#x11bc;&#x1109;&#x1161;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bonnate/Desktop/Algorithms/Cpp_Algorithms/Programmers/%E1%84%8B%E1%85%B5%E1%84%86%E1%85%A9%E1%84%90%E1%85%B5%E1%84%8F%E1%85%A9%E1%86%AB%20%E1%84%92%E1%85%A1%E1%86%AF%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A1/%E1%84%8B%E1%85%B5%E1%84%86%E1%85%A9%E1%84%90%E1%85%B5%E1%84%8F%E1%85%A9%E1%86%AB%20%E1%84%92%E1%85%A1%E1%86%AF%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A1/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "440">
+               </Location>
+               <Location
+                  uuid = "1FEC9574-A582-4742-90AB-D6AD0B878D7D - 351477482180d0d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DFS(std::__1::vector&lt;std::__1::vector&lt;int, std::__1::allocator&lt;int&gt;&gt;, std::__1::allocator&lt;std::__1::vector&lt;int, std::__1::allocator&lt;int&gt;&gt;&gt;&gt;, std::__1::vector&lt;int, std::__1::allocator&lt;int&gt;&gt;, int)"
+                  moduleName = "&#x110b;&#x1175;&#x1106;&#x1169;&#x1110;&#x1175;&#x110f;&#x1169;&#x11ab; &#x1112;&#x1161;&#x11af;&#x110b;&#x1175;&#x11ab;&#x1112;&#x1162;&#x11bc;&#x1109;&#x1161;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bonnate/Desktop/Algorithms/Cpp_Algorithms/Programmers/%E1%84%8B%E1%85%B5%E1%84%86%E1%85%A9%E1%84%90%E1%85%B5%E1%84%8F%E1%85%A9%E1%86%AB%20%E1%84%92%E1%85%A1%E1%86%AF%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A1/%E1%84%8B%E1%85%B5%E1%84%86%E1%85%A9%E1%84%90%E1%85%B5%E1%84%8F%E1%85%A9%E1%86%AB%20%E1%84%92%E1%85%A1%E1%86%AF%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A1/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "480">
+               </Location>
+               <Location
+                  uuid = "1FEC9574-A582-4742-90AB-D6AD0B878D7D - 351477482180d0d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DFS(std::__1::vector&lt;std::__1::vector&lt;int, std::__1::allocator&lt;int&gt;&gt;, std::__1::allocator&lt;std::__1::vector&lt;int, std::__1::allocator&lt;int&gt;&gt;&gt;&gt;, std::__1::vector&lt;int, std::__1::allocator&lt;int&gt;&gt;, int)"
+                  moduleName = "&#x110b;&#x1175;&#x1106;&#x1169;&#x1110;&#x1175;&#x110f;&#x1169;&#x11ab; &#x1112;&#x1161;&#x11af;&#x110b;&#x1175;&#x11ab;&#x1112;&#x1162;&#x11bc;&#x1109;&#x1161;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bonnate/Desktop/Algorithms/Cpp_Algorithms/Programmers/%E1%84%8B%E1%85%B5%E1%84%86%E1%85%A9%E1%84%90%E1%85%B5%E1%84%8F%E1%85%A9%E1%86%AB%20%E1%84%92%E1%85%A1%E1%86%AF%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A1/%E1%84%8B%E1%85%B5%E1%84%86%E1%85%A9%E1%84%90%E1%85%B5%E1%84%8F%E1%85%A9%E1%86%AB%20%E1%84%92%E1%85%A1%E1%86%AF%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A1/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "496">
+               </Location>
+               <Location
+                  uuid = "1FEC9574-A582-4742-90AB-D6AD0B878D7D - 351477482180d0d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DFS(std::__1::vector&lt;std::__1::vector&lt;int, std::__1::allocator&lt;int&gt;&gt;, std::__1::allocator&lt;std::__1::vector&lt;int, std::__1::allocator&lt;int&gt;&gt;&gt;&gt;, std::__1::vector&lt;int, std::__1::allocator&lt;int&gt;&gt;, int)"
+                  moduleName = "&#x110b;&#x1175;&#x1106;&#x1169;&#x1110;&#x1175;&#x110f;&#x1169;&#x11ab; &#x1112;&#x1161;&#x11af;&#x110b;&#x1175;&#x11ab;&#x1112;&#x1162;&#x11bc;&#x1109;&#x1161;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bonnate/Desktop/Algorithms/Cpp_Algorithms/Programmers/%E1%84%8B%E1%85%B5%E1%84%86%E1%85%A9%E1%84%90%E1%85%B5%E1%84%8F%E1%85%A9%E1%86%AB%20%E1%84%92%E1%85%A1%E1%86%AF%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A1/%E1%84%8B%E1%85%B5%E1%84%86%E1%85%A9%E1%84%90%E1%85%B5%E1%84%8F%E1%85%A9%E1%86%AB%20%E1%84%92%E1%85%A1%E1%86%AF%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A1/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "384">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F6C504E1-F082-4961-86E7-63E8D18EF412"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x110b;&#x1175;&#x1106;&#x1169;&#x1110;&#x1175;&#x110f;&#x1169;&#x11ab; &#x1112;&#x1161;&#x11af;&#x110b;&#x1175;&#x11ab;&#x1112;&#x1162;&#x11bc;&#x1109;&#x1161;/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "DFS(users, emoticons, l)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "83D8D975-6ADA-4893-906E-6F0C0F279775"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x110b;&#x1175;&#x1106;&#x1169;&#x1110;&#x1175;&#x110f;&#x1169;&#x11ab; &#x1112;&#x1161;&#x11af;&#x110b;&#x1175;&#x11ab;&#x1112;&#x1162;&#x11bc;&#x1109;&#x1161;/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "DFS(users, emoticons, l)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "83D8D975-6ADA-4893-906E-6F0C0F279775 - 351477482180d4f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DFS(std::__1::vector&lt;std::__1::vector&lt;int, std::__1::allocator&lt;int&gt;&gt;, std::__1::allocator&lt;std::__1::vector&lt;int, std::__1::allocator&lt;int&gt;&gt;&gt;&gt;, std::__1::vector&lt;int, std::__1::allocator&lt;int&gt;&gt;, int)"
+                  moduleName = "&#x110b;&#x1175;&#x1106;&#x1169;&#x1110;&#x1175;&#x110f;&#x1169;&#x11ab; &#x1112;&#x1161;&#x11af;&#x110b;&#x1175;&#x11ab;&#x1112;&#x1162;&#x11bc;&#x1109;&#x1161;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bonnate/Desktop/Algorithms/Cpp_Algorithms/Programmers/%E1%84%8B%E1%85%B5%E1%84%86%E1%85%A9%E1%84%90%E1%85%B5%E1%84%8F%E1%85%A9%E1%86%AB%20%E1%84%92%E1%85%A1%E1%86%AF%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A1/%E1%84%8B%E1%85%B5%E1%84%86%E1%85%A9%E1%84%90%E1%85%B5%E1%84%8F%E1%85%A9%E1%86%AB%20%E1%84%92%E1%85%A1%E1%86%AF%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A1/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "360">
+               </Location>
+               <Location
+                  uuid = "83D8D975-6ADA-4893-906E-6F0C0F279775 - 351477482180d4f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DFS(std::__1::vector&lt;std::__1::vector&lt;int, std::__1::allocator&lt;int&gt;&gt;, std::__1::allocator&lt;std::__1::vector&lt;int, std::__1::allocator&lt;int&gt;&gt;&gt;&gt;, std::__1::vector&lt;int, std::__1::allocator&lt;int&gt;&gt;, int)"
+                  moduleName = "&#x110b;&#x1175;&#x1106;&#x1169;&#x1110;&#x1175;&#x110f;&#x1169;&#x11ab; &#x1112;&#x1161;&#x11af;&#x110b;&#x1175;&#x11ab;&#x1112;&#x1162;&#x11bc;&#x1109;&#x1161;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bonnate/Desktop/Algorithms/Cpp_Algorithms/Programmers/%E1%84%8B%E1%85%B5%E1%84%86%E1%85%A9%E1%84%90%E1%85%B5%E1%84%8F%E1%85%A9%E1%86%AB%20%E1%84%92%E1%85%A1%E1%86%AF%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A1/%E1%84%8B%E1%85%B5%E1%84%86%E1%85%A9%E1%84%90%E1%85%B5%E1%84%8F%E1%85%A9%E1%86%AB%20%E1%84%92%E1%85%A1%E1%86%AF%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A1/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "268">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
