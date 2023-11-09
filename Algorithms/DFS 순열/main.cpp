@@ -1,4 +1,6 @@
 #include <iostream>
+#include <vector>
+using namespace std;
 
 int sel;
 int used[10];
@@ -19,6 +21,7 @@ void DFS_ALL_Combinations(int s)
 	}
 	else
 	{
+		// 0부터 sel까지 반복
 		for (int i = 0; i < sel; ++i)
 			if (!used[i])
 			{
@@ -31,13 +34,14 @@ void DFS_ALL_Combinations(int s)
 }
 
 /// <summary>
-/// 순서를 중요시하여 중복이 제거된 조합
+/// 중복이 없는 조합을 뽑기
 /// </summary>
-/// <param name="l"></param>
-/// <param name="s"></param>
-void DFS_DISTINCT_Combinations(int l, int s)
+/// <param name="s">시작 값 start</param>
+/// <param name="p">선택 원소 위치 place</param>
+void DFS_Combinations(int s, int p)
 {
-	if (s == sel)
+	// position이 sel(뽑아야 할 총 개수)라면?
+	if (p == sel)
 	{
 		for (int i = 0; i < sel; ++i)
 			printf("%c ", arr[ch[i]]);
@@ -46,17 +50,40 @@ void DFS_DISTINCT_Combinations(int l, int s)
 	else
 	{
 		// i는 현재 선택 개수부터 시작하여 선택할 마지막 값까지 반복
-		for (int i = l; i < 10; ++i)
+		for (int i = s; i < 4; ++i)
 		{
-			ch[s] = i; // s번째 선택한 값은 i번
-			DFS_DISTINCT_Combinations(i + 1, s + 1); // 다음 선택으로 이동
+			ch[p] = i; // s번째 선택한 값은 i번
+
+			// i + 1를 start로, p + 1을 position으로하여 다음 재귀 호출
+			DFS_Combinations(i + 1, p + 1);
 		}
+	}
+}
+
+vector<int> combination; // 현재까지 뽑은 조합을 저장하는 배열
+void generateCombination(int start, int r, vector<int>& arr)
+{
+	// 기저 조건: r개의 원소를 선택한 경우
+	if (r == 0)
+	{
+		for (int n : combination)
+			printf("%d ", n);
+		printf("\n");
+		return;
+	}
+
+	// 재귀 호출
+	for (int i = start; i < arr.size(); ++i)
+	{
+		combination.push_back(arr[i]); // 값을 뒤에 삽입
+		generateCombination(i + 1, r - 1, arr); // 다음값(i+1)부터 시작하고, r(선택해야할 개수)은 1빼기
+		combination.pop_back(); // 뒤에서 값 제거
 	}
 }
 
 int main()
 {
-	sel = 3;
-	//DFS_ALL_Combinations(0);
-	//DFS_DISTINCT_Combinations(0, 0);
+	sel = 4;
+
+	DFS_ALL_Combinations(0); // sel개의 모든 조합
 }
