@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "이분탐색", "이분탐색.vcxproj", "{FBADF71A-D1D9-44D9-AD99-8CC693ED15E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBADF71A-D1D9-44D9-AD99-8CC693ED15E9}.Debug|x64.ActiveCfg = Debug|x64
+		{FBADF71A-D1D9-44D9-AD99-8CC693ED15E9}.Debug|x64.Build.0 = Debug|x64
+		{FBADF71A-D1D9-44D9-AD99-8CC693ED15E9}.Debug|x86.ActiveCfg = Debug|Win32
+		{FBADF71A-D1D9-44D9-AD99-8CC693ED15E9}.Debug|x86.Build.0 = Debug|Win32
+		{FBADF71A-D1D9-44D9-AD99-8CC693ED15E9}.Release|x64.ActiveCfg = Release|x64
+		{FBADF71A-D1D9-44D9-AD99-8CC693ED15E9}.Release|x64.Build.0 = Release|x64
+		{FBADF71A-D1D9-44D9-AD99-8CC693ED15E9}.Release|x86.ActiveCfg = Release|Win32
+		{FBADF71A-D1D9-44D9-AD99-8CC693ED15E9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E985981E-7078-4FD8-9120-FF56C75D82C6}
+	EndGlobalSection
+EndGlobal
